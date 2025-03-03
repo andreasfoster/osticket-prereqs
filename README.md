@@ -25,7 +25,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 ### Install/Enabling IIS (Internet Information Services) With CGI
 ### Install and Configure osTicket
 
-
+---------------
 
 <h2>Installation Steps</h2>
 
