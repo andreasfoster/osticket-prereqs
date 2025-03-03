@@ -22,7 +22,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 ### Hardware Requirements
 - Minimum 8 GB memory, 2 vCPUs
 ### Web Browser 
-### Install/Enabling IIS (Internet Information Services) With CGI
+### Install/Enabling IIS With CGI
 ### Install and Configure osTicket
 
 ---------------
