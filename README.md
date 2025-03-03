@@ -17,14 +17,13 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
--  ( Operating System ) 
-**Azure Virtual Machine Windows 10 or later
-- ( Installing CGI ) 
-- ( Enabling IIS ) 
-- ( Installing PHP Manager For IIS ) 
-- ( Installing URL Rewrite Module )
-- ( Installing VC redist x86 )
-- ( Installing MySQL 5.5.62 ) 
+### **1. Operating System**  
+- **Azure Virtual Machine Windows 10 or later
+### **2. Hardware Requirements
+- **Minimum 8 GB memory, 2 vCPUs**
+### **3. Web Browser** 
+### **4. Install/Enabling IIS (Internet Information Services) With CGI** 
+### **5. Install and Configure osTicket**
 
 <h2>Installation Steps</h2>
 
