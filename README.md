@@ -17,9 +17,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-### **1. Operating System**  
+### 1. Operating System  
 - **Azure Virtual Machine Windows 10 or later
-### **2. Hardware Requirements
+### 2. Hardware Requirements
 - Minimum 8 GB memory, 2 vCPUs**
 ### **3. Web Browser** 
 ### **4. Install/Enabling IIS (Internet Information Services) With CGI** 
