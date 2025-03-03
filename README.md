@@ -13,16 +13,18 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Operating Systems Used </h2>
 
-- Windows 11</b> 
+- Windows 10 PRO, verison 22H2 x64</b> 
 
 <h2>List of Prerequisites</h2>
 
-- Item 1 ( Operating System ) 
- Windows 10 and later | MacOS 10.9 and later 
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+-  ( Operating System ) 
+**Azure Virtual Machine Windows 10 or later
+- ( Installing CGI ) 
+- ( Enabling IIS ) 
+- ( Installing PHP Manager For IIS ) 
+- ( Installing URL Rewrite Module )
+- ( Installing VC redist x86 )
+- ( Installing MySQL 5.5.62 ) 
 
 <h2>Installation Steps</h2>
 
