@@ -17,14 +17,14 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-### Operating System  
-- Azure Virtual Machine Windows 10 or later
-### Hardware Requirements
+- Operating System  
+ Azure Virtual Machine Windows 10 or later
+- Hardware Requirements
 - Minimum 8 GB memory, 2 vCPUs
-### Web Browser 
+- Web Browser 
 - Microsoft Edge, Google Chrome, Brave, Safari and more. 
-### Install/Enabling IIS With CGI
-### Install and Configure osTicket
+- Install/Enabling IIS With CGI
+- Install and Configure osTicket
 
 
 ---------------
