@@ -160,4 +160,36 @@ After go back to the Windows C drive and click inetpub/wwwroot/osTicket/include 
 
 <p> 
   
-  ![image alt](https://github.com/andreasfoster/osticket-prereqs/blob/87d631de6de5b62ba41f8932979b8d96a9461bee/Screenshot%202025-03-09%2022-57-50.png) 
+  ![image alt](https://github.com/andreasfoster/osticket-prereqs/blob/a07601fafe4b00322eb3b183e7e83ce645b5ab1f/Screenshot%202025-03-09%2023-14-13.png)
+  ![image alt](https://github.com/andreasfoster/osticket-prereqs/blob/a07601fafe4b00322eb3b183e7e83ce645b5ab1f/Screenshot%202025-03-09%2023-14-48.png)
+  ![image alt](https://github.com/andreasfoster/osticket-prereqs/blob/a07601fafe4b00322eb3b183e7e83ce645b5ab1f/Screenshot%202025-03-09%2023-18-27.png)
+  ![image alt](https://github.com/andreasfoster/osticket-prereqs/blob/a07601fafe4b00322eb3b183e7e83ce645b5ab1f/Screenshot%202025-03-09%2023-19-18.png)
+
+
+
+
+
+  <h2>11. Setup + Install HeidiSQL  </h2>
+Go back to the osTicket site, refresh and continue. fill out the top half information once you reach the database settings part go to the Installation Files folder and download HeidiSQL and before u press finished make sure that the launch HeidiSQL box is checked. at the bottom left press new and type in the username and password "root" and press open. After right click the drop down folder named unnamed and press create new and then press database, after that type in exactly "osTicket" and press ok. Now you can go back to the osTicket site enter in osTicket for (MySQL Database) and type root for username and password, go down and press Install Now!
+
+</p>
+<br />
+
+<p> 
+  
+  ![image alt](https://github.com/andreasfoster/osticket-prereqs/blob/98c9d8c3d98ac2cef49718c7672ec3e65b126355/Screenshot%202025-03-09%2023-25-40.png)
+  ![image alt](https://github.com/andreasfoster/osticket-prereqs/blob/98c9d8c3d98ac2cef49718c7672ec3e65b126355/Screenshot%202025-03-09%2023-26-37.png)
+  ![image alt](https://github.com/andreasfoster/osticket-prereqs/blob/98c9d8c3d98ac2cef49718c7672ec3e65b126355/Screenshot%202025-03-09%2023-27-18.png)
+  ![image alt](https://github.com/andreasfoster/osticket-prereqs/blob/98c9d8c3d98ac2cef49718c7672ec3e65b126355/Screenshot%202025-03-09%2023-28-26.png)
+  
+  <h2>11. Congrats! you have now installed osTicket  </h2>
+Now that you're done you can signin into your database with the admin info that u created and can now explorer the ticketing system! 
+
+</p>
+<br />
+
+<p> 
+  
+  ![image alt](https://github.com/andreasfoster/osticket-prereqs/blob/fce884832c733b243f8c32b282cadfc1dd2aee04/Screenshot%202025-03-09%2023-28-52.png)
+  ![image alt](https://github.com/andreasfoster/osticket-prereqs/blob/fce884832c733b243f8c32b282cadfc1dd2aee04/Screenshot%202025-03-09%2023-31-23.png)
+  ![image alt](https://github.com/andreasfoster/osticket-prereqs/blob/fce884832c733b243f8c32b282cadfc1dd2aee04/Screenshot%202025-03-09%2023-31-35.png)
