@@ -139,12 +139,11 @@ Go back to IIS Manager and refresh like we did earlier and then press start if y
 
 <p> 
   
-  ![image alt](https://github.com/andreasfoster/osticket-prereqs/blob/87d631de6de5b62ba41f8932979b8d96a9461bee/Screenshot%202025-03-09%2022-57-50.png) 
-  ![image alt]
-  ![image alt]
-  ![image alt]
-  ![image alt]
-  ![image alt]
-  ![image alt]
-  ![image alt]
+  ![image alt](https://github.com/andreasfoster/osticket-prereqs/blob/fc4a85e53eb14bff353ff9815cfe594a89778cff/Screenshot%202025-03-09%2023-00-23.png)
+  ![image alt](https://github.com/andreasfoster/osticket-prereqs/blob/fc4a85e53eb14bff353ff9815cfe594a89778cff/Screenshot%202025-03-09%2023-02-07.png)
+  ![image alt](https://github.com/andreasfoster/osticket-prereqs/blob/fc4a85e53eb14bff353ff9815cfe594a89778cff/Screenshot%202025-03-09%2023-02-36.png)
+  ![image alt](https://github.com/andreasfoster/osticket-prereqs/blob/fc4a85e53eb14bff353ff9815cfe594a89778cff/Screenshot%202025-03-09%2023-03-38.png)
+  ![image alt](https://github.com/andreasfoster/osticket-prereqs/blob/fc4a85e53eb14bff353ff9815cfe594a89778cff/Screenshot%202025-03-09%2023-08-01.png)
+  ![image alt](https://github.com/andreasfoster/osticket-prereqs/blob/fc4a85e53eb14bff353ff9815cfe594a89778cff/Screenshot%202025-03-09%2023-08-57.png)
+  ![image alt](https://github.com/andreasfoster/osticket-prereqs/blob/fc4a85e53eb14bff353ff9815cfe594a89778cff/Screenshot%202025-03-09%2023-11-18.png)
   ![image alt]
