@@ -183,7 +183,7 @@ Go back to the osTicket site, refresh and continue. fill out the top half inform
   ![image alt](https://github.com/andreasfoster/osticket-prereqs/blob/98c9d8c3d98ac2cef49718c7672ec3e65b126355/Screenshot%202025-03-09%2023-28-26.png)
   
   <h2>11. Congrats! you have now installed osTicket  </h2>
-Now that you're done you can signin into your database with the admin info that u created and can now explorer the ticketing system! 
+Now that you're done you can signin your database with the admin info that u created and now explore the ticketing system! 
 
 </p>
 <br />
