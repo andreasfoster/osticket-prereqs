@@ -124,3 +124,27 @@ Go back to the osTicket Installation files folder and install "MySQL 5.5.62". Af
 <p> 
   
   ![image alt](https://github.com/andreasfoster/osticket-prereqs/blob/87d631de6de5b62ba41f8932979b8d96a9461bee/Screenshot%202025-03-09%2022-57-50.png) 
+
+
+
+  <h2>8. Register PHP from within IIS and Installing osTicket </h2>
+Search up Internet Information Services with the Windows searchbox, right click program and press run as administrator. After it is open press the PHP Manager Icon and click the purple text at the top that says register new PHP verison. When the path screen pops up press the 3 dots and go to the windows C drive and go to the PHP file that you created earlier, once you click on the file youll see a purple icon that says php.cgi that youll press and open for IIS.
+
+After reload the Manager by clicking on osticket-vm thats under connects and pressing refresh. Go back to the Installation files folder and extract the osTicket folder, once you're done open another file manager tab and go back to the Windows C: drive, go to inetpub and the very top of the page and go to wwwroot then drag the upload folder from the extracted osTicket folder there. Lastly Rename the upload folder that you just draged into wwwroot to exactly "osTicket".
+
+Go back to IIS Manager and refresh like we did earlier and then press start if you havent already. Next expain the file under connections until you can see sites, click sites, press osTicket and click browse 80.
+
+</p>
+<br />
+
+<p> 
+  
+  ![image alt](https://github.com/andreasfoster/osticket-prereqs/blob/87d631de6de5b62ba41f8932979b8d96a9461bee/Screenshot%202025-03-09%2022-57-50.png) 
+  ![image alt]
+  ![image alt]
+  ![image alt]
+  ![image alt]
+  ![image alt]
+  ![image alt]
+  ![image alt]
+  ![image alt]
