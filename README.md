@@ -90,8 +90,21 @@ Go back to the osTicket Installation files folder and install "PHPManagerForllS_
 
 
 
-  <h2>6. Create a Directory File in Windows C </h2>
-Go to C drive by going to files and going all the way down to Windows(C:) and Create a File with the exact words of PHP
+  <h2>6. Create a Directory File in C drive and extract PHP files into it </h2>
+Go to C drive by going to files and going all the way down to Windows(C:) and Create a File with the exact words of PHP. Then go back to the Installation Files and right click on the PHP 7.4.8 folder, Press Extract Files and click on the browse buttom with 3 dots and go to Windows(C:) and extract the files to that exact PHP folder that you created.
+
+
+</p>
+<br />
+
+<p> 
+  
+  ![image alt](https://github.com/andreasfoster/osticket-prereqs/blob/2532c01ef7d61ec1dad42174e085438d7462b708/Screenshot%202025-03-09%2022-55-10.png)
+  ![image alt](https://github.com/andreasfoster/osticket-prereqs/blob/2532c01ef7d61ec1dad42174e085438d7462b708/Screenshot%202025-03-09%2022-56-00.png)
+
+  
+  <h2>7. Install VC redist </h2>
+Go back to the osTicket Installation files folder and install "VC redist x86". 
 
 </p>
 <br />
@@ -99,4 +112,3 @@ Go to C drive by going to files and going all the way down to Windows(C:) and Cr
 <p> 
   
   ![image alt](https://github.com/andreasfoster/osticket-prereqs/blob/af8b46c4d417671a01fe30263a3f18c6ca99a56c/Screenshot%202025-03-09%2022-53-41.png)
-
