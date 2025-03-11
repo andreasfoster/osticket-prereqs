@@ -115,7 +115,7 @@ Go back to the osTicket Installation files folder and install "VC redist x86".
 
 
 
-  <h2>7. Install MySQL </h2>
+  <h2>8. Install MySQL </h2>
 Go back to the osTicket Installation files folder and install "MySQL 5.5.62". After choose Typical Setup Type at the top, click launch when finished and install. when the Config pop up comes up choose Standard Configuration. After that it will ask you to enter a password, ENTER "root" for new root password and then press execute.
 
 </p>
@@ -127,7 +127,7 @@ Go back to the osTicket Installation files folder and install "MySQL 5.5.62". Af
 
 
 
-  <h2>8. Register PHP from within IIS and Installing osTicket </h2>
+  <h2>9. Register PHP from within IIS and Installing osTicket </h2>
 Search up Internet Information Services with the Windows searchbox, right click program and press run as administrator. After it is open press the PHP Manager Icon and click the purple text at the top that says register new PHP verison. When the path screen pops up press the 3 dots and go to the windows C drive and go to the PHP file that you created earlier, once you click on the file youll see a purple icon that says php.cgi that youll press and open for IIS.
 
 After reload the Manager by clicking on osticket-vm thats under connects and pressing refresh. Go back to the Installation files folder and extract the osTicket folder, once you're done open another file manager tab and go back to the Windows C: drive, go to inetpub and the very top of the page and go to wwwroot then drag the upload folder from the extracted osTicket folder there. Lastly Rename the upload folder that you just draged into wwwroot to exactly "osTicket".
@@ -146,4 +146,18 @@ Go back to IIS Manager and refresh like we did earlier and then press start if y
   ![image alt](https://github.com/andreasfoster/osticket-prereqs/blob/fc4a85e53eb14bff353ff9815cfe594a89778cff/Screenshot%202025-03-09%2023-08-01.png)
   ![image alt](https://github.com/andreasfoster/osticket-prereqs/blob/fc4a85e53eb14bff353ff9815cfe594a89778cff/Screenshot%202025-03-09%2023-08-57.png)
   ![image alt](https://github.com/andreasfoster/osticket-prereqs/blob/fc4a85e53eb14bff353ff9815cfe594a89778cff/Screenshot%202025-03-09%2023-11-18.png)
-  ![image alt]
+
+
+  
+
+  <h2>10. Enable dlls, Rename ost-config.php and assign permissions to ost.config.php  </h2>
+Go back to the IIS manager and go to the osTicket file beneath the sites file we were just at and click PHP Manager. and the bottom youll see purple text that says enable or disable an extension click on that and right click enable each of the following "php_imap" "php_intl" "php_opcache". 
+
+After go back to the Windows C drive and click inetpub/wwwroot/osTicket/include then scroll all the way down to find "ost-sampleconfig.php". delete the sample out of the name and make sure it came out as "ost-config.php". After that right click and go to properties to we can give osTicket access to this file. Go to security press advanced and disable inheritance and press remove all inherited permissions from this object. next press add click principal and put everyone and then apply. 
+
+</p>
+<br />
+
+<p> 
+  
+  ![image alt](https://github.com/andreasfoster/osticket-prereqs/blob/87d631de6de5b62ba41f8932979b8d96a9461bee/Screenshot%202025-03-09%2022-57-50.png) 
