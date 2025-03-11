@@ -112,3 +112,15 @@ Go back to the osTicket Installation files folder and install "VC redist x86".
 <p> 
   
   ![image alt](https://github.com/andreasfoster/osticket-prereqs/blob/af8b46c4d417671a01fe30263a3f18c6ca99a56c/Screenshot%202025-03-09%2022-53-41.png)
+
+
+
+  <h2>7. Install MySQL </h2>
+Go back to the osTicket Installation files folder and install "MySQL 5.5.62". After choose Typical Setup Type at the top, click launch when finished and install. when the Config pop up comes up choose Standard Configuration. After that it will ask you to enter a password, ENTER "root" for new root password and then press execute.
+
+</p>
+<br />
+
+<p> 
+  
+  ![image alt](https://github.com/andreasfoster/osticket-prereqs/blob/87d631de6de5b62ba41f8932979b8d96a9461bee/Screenshot%202025-03-09%2022-57-50.png) 
